@@ -11,6 +11,8 @@ I am trying out a new folder structure to see if I like it. I created the utilit
 Please see below for the changes:
 * Created .gitignore
 * Created folder structure
+  * Created test.py for testing
+    * Set up venv and installed packages
 * Created sample data from anonymized real data
 * Hiding endpoint URLs in resources folder to obscure where I live :)
   * I'll provide a sample structure, so you have an idea what that URLs look like. Though, I imagine other places don't have similar tools that would allow this to work with other localities.
