@@ -1,0 +1,2 @@
+https://api.county.gov/api/RealEstate/V1.2/Details/Search?salesDateMin=2023-09-01&salesDateMax=2023-09-30&isResidential=true&isCommercial=true&isActive=true&isInactive=true&isImproved=true&isUnimproved=true&sort=10&rows=10&returnOverview=true
+https://api.county.gov/api/RealEstate/V1.2/Details/GetOverviewResults

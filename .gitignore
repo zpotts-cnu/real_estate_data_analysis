@@ -1,6 +1,6 @@
 # Project Specific Settings
 data/real_data/
-resources/
+resources/real_resources/
 .creds
 
 # Byte-compiled / optimized / DLL files
