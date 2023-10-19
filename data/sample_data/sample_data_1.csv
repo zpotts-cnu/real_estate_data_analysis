@@ -1,0 +1,2 @@
+PropertyAddress,CAMAAddress,Address,HasKnownPropertyAddress,ParcelId,Improved,LastSaleDate,LastSalePrice,YearBuilt,FinishedArea,NbrBedrooms,NbrFullBaths,NbrHalfBaths,NbrResidentialBuildings,NbrCommercialBuildings,NbrBuildings,BuildingStyle,Basement,Stories,Style,DeededAcreage,NbrLots,LegalDescription,IsResidential,IsActive
+0000  ROADY ROAD,0000 ROAD RD,0000 ROADY ROAD,True,700000000000000,True,10/19/2023,250000,1970,2000,3,2,0,1,0,1,TRADITIONAL,NO BASEMENT,,TRADITIONAL,0.0000,1,RANDOM SEC 1           024,True,True
